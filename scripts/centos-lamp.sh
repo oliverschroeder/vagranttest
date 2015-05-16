@@ -32,7 +32,6 @@ sudo -u vagrant wget -q https://raw.githubusercontent.com/oliverschroeder/vagran
 
 
 
-
 service httpd restart
 
 
